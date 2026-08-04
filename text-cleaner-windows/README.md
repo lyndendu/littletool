@@ -20,6 +20,8 @@
 4. 在 **Artifacts** 区域下载 `TextCleaner-Windows`。
 5. 解压后双击 `TextCleaner.exe`。
 
+> `.exe` 由 Windows GitHub Actions 运行器生成，不直接提交到 Git 仓库中。
+
 程序提供：
 
 - 原始文本输入框
