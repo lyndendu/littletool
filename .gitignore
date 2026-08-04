@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.spec
+text-cleaner-windows/build/
+text-cleaner-windows/dist/
